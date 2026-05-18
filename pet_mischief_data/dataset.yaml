@@ -1,0 +1,11 @@
+path: /content/pet_mischief_data
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: cat
+  1: cup
+  2: laptop
+  3: chair
+  4: potted plant
+  5: book
